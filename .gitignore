@@ -1,0 +1,17 @@
+
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+*.opendb
+*.json
+*.ipch
+*.exe
+*.pdb
+*.obj
+*.log
+*.recipe
+*.ilk
+*.tlog
+*.idb
+*.txt
